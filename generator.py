@@ -22,7 +22,7 @@ def generateIPV6Hosts(block_list: List[str]) -> List[str]:
     return [f"# {line}" for line in file_header.split("\n")]+[f"::/0 {entry}" for entry in block_list]
 
 def generateDomainsList(block_list: List[str]) -> List[str]:
-    return [f"# {line}" for line in file_header.split(";\n")]+[entry for entry in block_list]
+    return [f"# {line}" for line in file_header.split("\n")]+[f"{entry};" for entry in block_list]
 
 def generateDNSMASQList(block_list: List[str]) -> List[str]:
     return [f"# {line}" for line in file_header.split("\n")]+[f"server=/{entry}/" for entry in block_list]
