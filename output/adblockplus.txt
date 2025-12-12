@@ -4,6 +4,8 @@
 ! This project was created and is maintained by: Athars
 ! More information at: https://github.com/Athar5443/Youtube_BlockAds_List/new/main
 ! 
+||rr8---sn-htgx20capjpq-jb3l.googlevideo.com^
+||rr1---sn-htgx20capjpq-jb3k.googlevideo.com^
 ||www.googletagservices.com^
 ||www-googletagmanager.l.google.com^
 ||www-google-analytics.l.google.com^

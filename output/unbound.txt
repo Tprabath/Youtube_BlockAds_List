@@ -3,6 +3,10 @@
 # This project was created and is maintained by: Athars
 # More information at: https://github.com/Athar5443/Youtube_BlockAds_List/new/main
 # 
+local-zone: "rr8---sn-htgx20capjpq-jb3l.googlevideo.com" redirect
+local-data: "rr8---sn-htgx20capjpq-jb3l.googlevideo.com A 127.0.0.1"
+local-zone: "rr1---sn-htgx20capjpq-jb3k.googlevideo.com" redirect
+local-data: "rr1---sn-htgx20capjpq-jb3k.googlevideo.com A 127.0.0.1"
 local-zone: "www.googletagservices.com" redirect
 local-data: "www.googletagservices.com A 127.0.0.1"
 local-zone: "www-googletagmanager.l.google.com" redirect

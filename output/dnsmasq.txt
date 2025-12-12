@@ -3,6 +3,8 @@
 # This project was created and is maintained by: Athars
 # More information at: https://github.com/Athar5443/Youtube_BlockAds_List/new/main
 # 
+server=/rr8---sn-htgx20capjpq-jb3l.googlevideo.com/
+server=/rr1---sn-htgx20capjpq-jb3k.googlevideo.com/
 server=/www.googletagservices.com/
 server=/www-googletagmanager.l.google.com/
 server=/www-google-analytics.l.google.com/
